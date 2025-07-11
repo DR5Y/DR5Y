@@ -11,8 +11,6 @@
 
 I am **Lefika Andrew Setuke**, a Computer Systems Engineering graduate passionate about building impactful software solutions. I love exploring how technology can solve real-world problems, especially in **cloud computing, cybersecurity, and AI**.
 
-I am currently part of the **Africa Code Academy Engineering Residency Program 2024**, refining my craft to become a world-class engineer.
-
 ---
 
 ### 🛠️ Tech Stack
